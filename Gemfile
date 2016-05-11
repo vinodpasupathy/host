@@ -14,6 +14,7 @@ gem "paranoia", "~> 2.0"
 gem 'date_validator'  
 gem 'whenever', :require => false
 gem 'puma'
+gem 'rails_12factor', group: :production
 #gem 'seed_dump'
 gem 'yaml_db'
 #gem 'jquery-turbolinks'

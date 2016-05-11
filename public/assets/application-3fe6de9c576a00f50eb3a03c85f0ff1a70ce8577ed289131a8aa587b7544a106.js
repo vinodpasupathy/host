@@ -10,7 +10,7 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
+= require jquery
 //= require pjax
 //= require jquery_ujs
 //= require bootstrap
@@ -53,3 +53,4 @@ $(function () {
 }
 }
 </script>
+
